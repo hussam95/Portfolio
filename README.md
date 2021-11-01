@@ -1,1 +1,1 @@
-# Dataquest
+# EUROUSD
