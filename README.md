@@ -1,7 +1,6 @@
-# Data Analyst Portfolio Projects
-- This repository is meant to serve the purpose of a portfolio for any potential employer
-- Every branch in this repository represents a seperate project
-- Branches are not neccessarily in an increasing order of difficulty
-- Branches may reflect my journey from a data analyst to a data scientist 
-- Every branch in this repository is my own work which is a guided project offered by Dataquest (online DA, DS, and DE certificator)
-- Any self-initiated project will be duly mentioned in the branch's readme.md file
+# Star Wars Survey Analysis
+- A survey of over 11,00 people regarding famous six-episode sci-fi series was read and cleaned using Pandas
+- Plotting of rankings and number of views that each part got from the sample was done using Matplotlib and Pandas
+- Data set was further compartmentalized to view audience rankings and views with respect to gender 
+- Loyal fans' analysis was also carried out to understand how they controlled a very specific survey result
+- Extensive use of Pandas, Numpy, and Matplotlib libararies and their several methods served ETL and visualization purposes
