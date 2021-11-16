@@ -1,2 +1,3 @@
 # Finding Best Markets to Advertise in
 Work in progress on a project to find best markets to advertise in for a e-learning company...
+<a href="https://nbviewer.org/github/hussam95/Portfolio/blob/scraping-a-website-for-prices/Scraping_video.ipynb">Click for code</a> 
