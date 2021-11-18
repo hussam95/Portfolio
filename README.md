@@ -5,4 +5,4 @@
 - In order to find the best markets to advertise in, an exisiting survey carried out by [Free Code Camp](https://www.freecodecamp.org/) in 2017 is used. The data is publically [available here](https://github.com/freeCodeCamp/2017-new-coder-survey)
 
 
-- <a href="https://nbviewer.org/github/hussam95/Portfolio/blob/finding-best-markets-to-advertise-in/Find%20the%20Best%20Markets%20to%20Advertise.ipynb">Click for code of this project</a> 
+- <a href="https://nbviewer.org/github/hussam95/Portfolio/blob/finding-best-markets-to-advertise-in/Finding%20the%20Best%20Markets%20to%20Advertise.ipynb">Click for code of this project</a> 
