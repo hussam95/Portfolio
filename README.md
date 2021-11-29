@@ -9,5 +9,5 @@ The project uses the K-Nearest-Neighbors algorithm to predict the car prices uti
 - Hyperparameter optimization
 - Attribute selection
 
-View the Jupyter Notebook for this project [here.](https://nbviewer.org/github/hussam95/Portfolio/blob/3fa8615d35a43e8690bcba7e71d49e3ca7f6956b/Predicting_Car_Prices.ipynb) 
+**View the Jupyter Notebook for this project [here.](https://nbviewer.org/github/hussam95/Portfolio/blob/3fa8615d35a43e8690bcba7e71d49e3ca7f6956b/Predicting_Car_Prices.ipynb)** 
  
