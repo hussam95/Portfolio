@@ -1,6 +1,6 @@
 # Predicting Car Prices Using Sci-kit Learn's KNeighborsRegressor Machine Learning Model
 
-In this [project](https://nbviewer.org/github/hussam95/Portfolio/blob/10a86d6d8a43f14d5e05ecde245cd836c2262429/Naive_Bayes_Spam_Filter.ipynb), used Naive Bayes Theorem to build a spam filter for unwanted text messages (SMS). Naive Bayes theorem is a way to test the validity of a hypothesis against some evidence based on prior knowledge. 
+In this [project](https://nbviewer.org/github/hussam95/Portfolio/blob/3fa8615d35a43e8690bcba7e71d49e3ca7f6956b/Predicting_Car_Prices.ipynb), used Naive Bayes Theorem to build a spam filter for unwanted text messages (SMS). Naive Bayes theorem is a way to test the validity of a hypothesis against some evidence based on prior knowledge. 
 
 In our case, we will label new SMS either a spam or not spam as a hypothesis. We will then test these two hypotheses using the evidence or prior knowledge availbe in this [dataset](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection). 
 
