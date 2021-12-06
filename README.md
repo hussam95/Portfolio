@@ -5,6 +5,6 @@ Originally, the [dataset](https://www.tandfonline.com/doi/abs/10.1080/10691898.2
 - 82 [columns](https://s3.amazonaws.com/dq-content/307/data_description.txt) (including target)
 - 2930 rows 
 
-Throughout this project, we will engineer new features from the original columns so much so that some of the models we'll build will have as much as 150 features (due attention on relevance with target column will be kept in mind at each step). The project performs complete workflow pipeline, from cleaning to validation of different models. 
+Throughout this project, we will engineer new features from the original columns so much so that some of the models we'll build will have as much as 150 features (due attention on relevance with target column will be kept in mind at each step). **The project performs complete workflow pipeline: cleaning data, feature engineering, developing models, and validating them.** 
 
-- **[Click here](https://github.com/hussam95/Portfolio/branches/active) for Jupyter Notebook (code) of this project**
+- **[Click here](https://nbviewer.org/github/hussam95/Portfolio/blob/a861662e3014c624345d9a2975a8e82c9f7e3238/LR_Predicting_House_Price_hussam.ipynb) for Jupyter Notebook (code) of this project**
