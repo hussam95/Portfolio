@@ -1,4 +1,4 @@
-# Classifying Breast Cancer Patients Using Multiclass Logistic Regression
+# Classifying Breast Cancer Patients Using Multiclass Multivariate Logistic Regression
 Logisitic regression helps us classify a dependent variable. In this project, we will use this technique to classify breast cancer patients as having moderately malignant(1), malignant(2), or extremly malignant(3) tumor. We'll use **one-versus-all appraoch** in our multiclass logistic regression model.
 
 We will use [data](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer) having 9 categorical features. We'll engineer new features in this project to train and test our logistic regression model apart from converting categorical features to numeric ones.
