@@ -6,4 +6,4 @@ In this project, I'll try to predict the total number of bikes people rented in 
 - Decision Tree
 - Ensembled Decision Tree/Random Forest
 
-The Jupyter Notebook (code) for this project can be found [here.]()
+**The Jupyter Notebook (code) for this project can be found [here.](https://nbviewer.org/github/hussam95/Portfolio/blob/2b35f991af652cd60e19c339412c9fd181feabcc/Predicting_Bike_Rentals_Colab.ipynb)**
