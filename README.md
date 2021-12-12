@@ -8,3 +8,5 @@ Remember, the probability of successfully predicting the extent of breast cancer
 **The Jupyter Notebook (code) of this project can be found [here.](https://nbviewer.org/github/hussam95/Portfolio/blob/eab9e46de40922dfe94f75c541853b435c09b5d5/Logistic_Regression_Breast_Cancer_Classification%28Multiclass%29.ipynb)**
 
 As a part of the experiment, I used another classification model, **Decision Tree**, on the same dataset with a view to compare and contrast its performance with logistic regression model. You can view the Jupyter Notebook of this experiment [here.](https://nbviewer.org/github/hussam95/Portfolio/blob/92e48b200630dff8da5100105a04766b477a6150/Decision_Tree_and_Logistic_Regression_Comparison.ipynb)
+
+**P.S: This is a self initiated project with an aim to understand high level working of different classification models.** 
