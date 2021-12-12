@@ -1,8 +1,9 @@
-# Data Analyst Portfolio Projects
-- This repository is meant to serve the purpose of a portfolio for any potential employer
-- Every branch in this repository represents a seperate project
-- Branches are not neccessarily in an increasing order of difficulty
-- Branches may reflect my journey from a data analyst to a data scientist 
-- Every branch in this repository is my own work which is a guided project offered by Dataquest (online DA, DS, and DE certificator)
-- Any self-initiated project will be duly mentioned in the branch's readme.md file
-- **[Click here](https://github.com/hussam95/Portfolio/branches/active) for all projects**
+# Predicting Bike Rentals
+Many U.S. cities have communal bike sharing stations where you can rent bicycles by the hour or day. Washington, D.C. is one of these cities. The District collects detailed [data](http://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset) on the number of bicycles people rent by the hour and day.
+
+In this project, I'll try to predict the total number of bikes people rented in a given hour. To accomplish this task, I'll use 3 different machine learning algorithms with a view to comapre and contrast their performance:
+- Linear Regression
+- Decision Tree
+- Ensembled Decision Tree/Random Forest
+
+The Jupyter Notebook (code) for this project can be found [here.]()
