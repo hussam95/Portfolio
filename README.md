@@ -17,6 +17,6 @@ The overall accuracy for all these models (with near optimal parameters) seemed 
 
 Moreover, it is also important to highlight that different models classify different target classes with varying accuracies. And depending upon which class we want to predict the best, we can select a model accordingly. 
 
-**Click [here](https://nbviewer.org/github/hussam95/Portfolio/blob/92e48b200630dff8da5100105a04766b477a6150/Decision_Tree_and_Logistic_Regression_Comparison.ipynb) to view Jupyter Notebook (code) of this experiment.**
+**Click [here](https://nbviewer.org/github/hussam95/Portfolio/blob/88428c695c0bff36d5b38638a6766121cf54930a/4%20models%20breast%20cancer.ipynb) to view Jupyter Notebook (code) of this experiment.**
 
 **P.S: This is a self initiated project with an aim to understand, compare, and contrast high level working of different classification models.** 
