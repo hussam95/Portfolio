@@ -1,8 +1,10 @@
-# Data Analyst Portfolio Projects
-- This repository is meant to serve the purpose of a portfolio for any potential employer
-- Every branch in this repository represents a seperate project
-- Branches are not neccessarily in an increasing order of difficulty
-- Branches may reflect my journey from a data analyst to a data scientist 
-- Every branch in this repository is my own work which is a guided project offered by Dataquest (online DA, DS, and DE certificator)
-- Any self-initiated project will be duly mentioned in the branch's readme.md file
-- **[Click here](https://github.com/hussam95/Portfolio/branches/active) for all projects**
+# Analyzing CIA Factbook using SQL
+1. In this project, we'll work with data from the CIA World Factbook, a compendium of statistics about all of the countries on Earth. The Factbook contains demographic information like the following:
+
+- `population` — the global population.
+- `population_growth` — the annual population growth rate, as a percentage.
+- `area` — the total land and water area.
+
+2. In this guided project, we'll use SQL in Jupyter Notebook to query data from this database. 
+
+**You can find the Jupyter Notebook(code) for this project [here](https://nbviewer.org/github/hussam95/Portfolio/blob/26c49a1f41bbd8b6d02f13287f67b539e635c10c/SQL_CIA_Factbook.ipynb)**
