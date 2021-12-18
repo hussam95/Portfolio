@@ -1,4 +1,4 @@
-# Data Analyst Portfolio Projects
+# Data Scientist Portfolio Projects
 - This repository is meant to serve the purpose of a portfolio for any potential employer
 - Every branch in this repository represents a seperate project
 - Branches are not neccessarily in an increasing order of difficulty
