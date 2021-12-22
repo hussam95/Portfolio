@@ -1,4 +1,4 @@
-# Building Handwritten Digits Classifier Using Feedforward Nueral Network
+# Building Handwritten Digits Classifier Using Feedforward Neural Network
 
 In this project I'll:
 - Use [hand-written digits dataset](http://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritten+Digits) from UCI 
