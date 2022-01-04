@@ -1,8 +1,7 @@
-# Data Scientist Portfolio Projects
-- This repository is meant to serve the purpose of a portfolio for any potential employer
-- Every branch in this repository represents a seperate project
-- Branches are not neccessarily in an increasing order of difficulty
-- Branches may reflect my journey from a data analyst to a data scientist 
-- Every branch in this repository is my own work which is a guided project offered by Dataquest (online DA, DS, and DE certificator)
-- Any self-initiated project will be duly mentioned in the branch's readme.md file
+# Builiding, Compiling, Training, and Testing a Neural Network in Tensor Flow 
+In this project I'll: 
+1. Build a simple Tensorflow model to solve a regression problem
+2. Train the model and making
+3. Save model to disc and reload it to a Jupyter Notebook for reuse
+
 - **[Click here](https://github.com/hussam95/Portfolio/branches/active) for all projects**
