@@ -2,7 +2,7 @@
 In this project, I'll:
 
 1. Build a sequential neural network with 3 hidden layers
-2. Train the neural network on a 6 dimensional feature space having 4500 examples describing the properties of houses
+2. Train the neural network on 4500 examples having 6 dimensional feature space describing the properties of houses 
 3. Validate the network's performance on 500 testing examples using RMSE as my error metric
 
 
