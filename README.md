@@ -11,3 +11,6 @@ I will use following packages to acheive this:
 - Numpy
 
 - **[Click here](https://nbviewer.org/github/hussam95/Portfolio/blob/4cdcc79b16bb91cb65b3feda8cce69a47a312a3c/Tensor_Flow_Builidng_Training_Testing_Saving.ipynb) to view Jupyter Notebook (code) of this project**
+
+P.S: This is a self-initiated project with a view to understand and implement the high-level working of Tensor Flow and Keras by solving a regression problem.
+
