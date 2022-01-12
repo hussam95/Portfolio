@@ -1,8 +1,11 @@
-# Data Scientist Portfolio Projects
-- This repository is meant to serve the purpose of a portfolio for any potential employer
-- Every branch in this repository represents a seperate project
-- Branches are not neccessarily in an increasing order of difficulty
-- Branches may reflect my journey from a data analyst to a data scientist 
-- Every branch in this repository is my own work which is a guided project offered by Dataquest (online DA, DS, and DE certificator)
-- Any self-initiated project will be duly mentioned in the branch's readme.md file
-- **[Click here](https://github.com/hussam95/Portfolio/branches/active) for all projects**
+# Solving Simple NLP Problem in Pytorch
+
+In this project I'll:
+1. Use Pytorch to build a neural network
+2. Use spam/ham data to train the network using batch gradient descent
+3. Test the network's performance on a testing set
+4. Use Tokenizer from keras to preprocess the text data  
+
+**Click [here]() to find the Jupyter Notebook (code) of this project**
+
+P.S: This is a self-initiated project to learn high level working of Pytorch. Moreover, the goal of this project was also to learn preprocessing of text data to better handle NLP problems in future. 
