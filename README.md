@@ -8,4 +8,6 @@ In this project I'll:
 
 **Click [here](https://nbviewer.org/github/hussam95/Portfolio/blob/a14b051805e0c9264cedf46e97bc694ec7e35d13/NLP_Using_Pytorch.ipynb) to find the Jupyter Notebook (code) of this project**
 
+*Click [here](https://nbviewer.org/github/hussam95/Portfolio/blob/9ff8bd59117ce11b89112e62fbecc0b6fd8a6bfe/NLP_Using_Pytorch%20%281%29.ipynb) for updated Jupyter Notebook (code) also containing the plot of loss function for training set
+
 P.S: This is a self-initiated project to learn high level working of Pytorch. Moreover, the goal of this project was also to learn preprocessing of text data to better handle NLP problems in future. 
